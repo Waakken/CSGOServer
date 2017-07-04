@@ -9,4 +9,5 @@
     +sv_setsteamaccount `cat TOKEN` \
     -authkey `cat AUTHKEY` \
     +rcon_password "adminpassu" \
-    -tickrate 128
+    -tickrate 128 \
+    +host_workshop_map 959845250
